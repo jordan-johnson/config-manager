@@ -2,6 +2,12 @@
 
 Creates a specified configuration file (in JSON) for use in your application.
 
+## Installation
+
+```
+dotnet add package JJConfigManager
+```
+
 ## Included Dependencies
 
 * Newtonsoft.Json
